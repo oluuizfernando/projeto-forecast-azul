@@ -1,4 +1,3 @@
-
 Sobre o Projeto
 
 Este projeto foi a partir de uma parceiria educacional entre a Escola Dinâmica Group (DNC) e a Empresa Azul Linhas Aéreas
