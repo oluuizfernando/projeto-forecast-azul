@@ -1,8 +1,10 @@
+# Elaboração de modelo de forecast para receita e ocupação de voos da Azul Linhas Aéreas.
+
 Sobre o Projeto
 
 Este projeto foi a partir de uma parceiria educacional entre a Escola Dinâmica Group (DNC) e a Empresa Azul Linhas Aéreas
 
-Este é um projeto de MAchine Learning direcionado para o desenvolvimento de um cistema de Forecast para prever a ocupação e a receita estimada de cada voo futuro.
+Este é um projeto de Machine Learning direcionado para o desenvolvimento de um cistema de Forecast para prever a ocupação e a receita estimada de cada voo futuro.
 
 Para Realizar as previsões foi utilizado a biblioteca Scikit-learn, algoritmo Randomforest, este modelo foi selecionado por ter atingido os melhores métricas nos treinos.
 
