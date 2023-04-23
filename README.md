@@ -45,7 +45,7 @@ Além do código do modelo propriamente dito, tambem estamos entregando um app d
 abaixo segue a referencia para criação do ambiente virtual para o projeto:
 
 
-conda cerate -n Azul_DNC python=3.9.13
+conda create -n Azul_DNC python=3.9.13
 conda activate Azul_DNC
 pip install -r requirement.txt
 
