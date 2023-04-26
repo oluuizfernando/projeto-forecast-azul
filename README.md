@@ -1,4 +1,4 @@
-# Elaboração de modelo de forecast para receita e ocupação de voos de companhia aérea.
+# Modelo de Forecast de receita e ocupação de voos de uma companhia aérea.
 
 Sobre o Projeto
 
